@@ -25,14 +25,23 @@ The workflow includes:
 ```text
 StrokePrediction-DataAnalysis/
 │
-├── Final Project 3.ipynb           # Main analysis notebook
-├── Stroke.csv                      # Dataset
-├── Udegadhwala_Mustafa2.ppt        # Presentation slides
-├── README.md                       # Project overview
+├── Final Project 3.ipynb           # Main notebook with analysis and model training
+├── Stroke.csv                      # Dataset used for the analysis
+├── README.md                       # Project overview and documentation links
 │
-└── docs/                           # Supporting documents
-    ├── FR_Udegadhwala_Mustafa_N01414702.pdf
-    └── Mustafa_Final_Project_Notebook.pdf
+└── docs/                           # Supporting documents and presentation
+    ├── FR_Udegadhwala_Mustafa_N01414702.pdf      # Report/submission file
+    ├── Mustafa_Final_Project_Notebook.pdf        # Exported notebook (PDF)
+    └── Udegadhwala_Mustafa2.ppt                 # Presentation slides
+
+## 📑 Project Documents
+Additional materials related to this project can be found in the [`docs/`](docs) folder:
+- [📄 FR_Udegadhwala_Mustafa_N01414702.pdf](docs/FR_Udegadhwala_Mustafa_N01414702.pdf)
+- [📄 Mustafa_Final_Project_Notebook.pdf](docs/Mustafa_Final_Project_Notebook.pdf)
+- [📊 Udegadhwala_Mustafa2.ppt](docs/Udegadhwala_Mustafa2.ppt)
+
+These files include the original report, exported notebook, and presentation slides for reference.
+
 📊 Results
 
 Best Model: Random Forest Classifier
